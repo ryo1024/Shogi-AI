@@ -1,6 +1,6 @@
 # Shogi-AI
 
-Shogi-AI 
+## Description
 
 Tensorflow Implementation of "Learn Deep Learning from Shogi AI" by Yamaoka Tadao
 
